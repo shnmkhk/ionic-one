@@ -3,5 +3,6 @@
   "integrations": {
     "capacitor": {}
   },
-  "type": "angular"
+  "type": "angular",
+  "linuxAndroidStudioPath": "/home/shnmkhk/android-studio/bin/studio.sh"
 }
